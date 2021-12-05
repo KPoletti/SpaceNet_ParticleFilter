@@ -1,0 +1,23 @@
+                                                                             20 Feb 2021 11:34:27
+FOR UNFUNDED EDUCATIONAL USE ONLY
+Facility-SpaceNet1, SpaceNet2, SpaceNet3, SpaceNet4
+
+
+SpaceNet1 - Geodetic-Lat (deg)    SpaceNet1 - Geodetic-Lon (deg)    SpaceNet1 - Geodetic-Alt (km)
+------------------------------    ------------------------------    -----------------------------
+                        40.009                          -105.248                         1.612000
+
+
+SpaceNet2 - Geodetic-Lat (deg)    SpaceNet2 - Geodetic-Lon (deg)    SpaceNet2 - Geodetic-Alt (km)
+------------------------------    ------------------------------    -----------------------------
+                        40.936                          -105.381                         1.868000
+
+
+SpaceNet3 - Geodetic-Lat (deg)    SpaceNet3 - Geodetic-Lon (deg)    SpaceNet3 - Geodetic-Alt (km)
+------------------------------    ------------------------------    -----------------------------
+                        39.951                          -106.350                         2.331000
+
+
+SpaceNet4 - Geodetic-Lat (deg)    SpaceNet4 - Geodetic-Lon (deg)    SpaceNet4 - Geodetic-Alt (km)
+------------------------------    ------------------------------    -----------------------------
+                        38.240                          -104.575                         2.000000
