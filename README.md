@@ -9,5 +9,5 @@ This code is based on the idea outlined [this paper](https://ssdl.gatech.edu/sit
 
 
 ![Here is an example of the Particle Filter Tracking a Flyby.](https://media.giphy.com/media/dO3hm6UUfAbRfgOpK2/giphy.gif)
-!(https://media.giphy.com/media/ACGdwVR8FaqCnzjTvj/giphy.gif)
+![Earth View of Particles being Tracked](https://media.giphy.com/media/ACGdwVR8FaqCnzjTvj/giphy.gif)
 
