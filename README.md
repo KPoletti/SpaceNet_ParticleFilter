@@ -6,6 +6,8 @@ This code is based on the idea outlined [this paper](https://ssdl.gatech.edu/sit
 - Run out of the box
 - change sat and ind1 to pick which satellite to predict and which flyby to select.
 - change DoPlot to 1 to plot the particles and satelite in 3D. 
+
+
 ![Here is an example of the Particle Filter Tracking a Flyby.](https://media.giphy.com/media/dO3hm6UUfAbRfgOpK2/giphy.gif)
-(https://media.giphy.com/media/ACGdwVR8FaqCnzjTvj/giphy.gif)
+!(https://media.giphy.com/media/ACGdwVR8FaqCnzjTvj/giphy.gif)
 
